@@ -77,8 +77,8 @@
 
         <!-- Spring 3rd party dependencies -->
         <dependency>
-            <groupId>org.mariadb.jdbc</groupId>
-            <artifactId>mariadb-java-client</artifactId>
+            <groupId>org.mysql.jdbc</groupId>
+            <artifactId>mysql-java-client</artifactId>
         </dependency>
         <dependency>
             <groupId>com.h2database</groupId>
