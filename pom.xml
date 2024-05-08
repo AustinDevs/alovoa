@@ -77,8 +77,8 @@
 
         <!-- Spring 3rd party dependencies -->
         <dependency>
-            <groupId>org.mysql.jdbc</groupId>
-            <artifactId>mysql-java-client</artifactId>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
         </dependency>
         <dependency>
             <groupId>com.h2database</groupId>
